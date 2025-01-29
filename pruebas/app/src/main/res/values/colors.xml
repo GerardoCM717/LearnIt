@@ -1,0 +1,81 @@
+<resources>
+    <!-- Colores principales -->
+    <color name="primary_color">#4A90E2</color> <!-- Azul vibrante para elementos destacados -->
+    <color name="primary_dark_color">#4178BE</color> <!-- Azul más oscuro para variantes -->
+    <color name="accent_color">#F5A623</color> <!-- Naranja para botones o elementos importantes -->
+
+    <!-- Colores de texto -->
+    <color name="primary_text_color">#212121</color> <!-- Texto principal (negro oscuro) -->
+    <color name="secondary_text_color">#757575</color> <!-- Texto secundario (gris) -->
+    <color name="white">#FFFFFF</color> <!-- Blanco para texto o fondo -->
+
+    <!-- Colores de fondo -->
+    <color name="background_color">#F2F2F2</color> <!-- Fondo general de la aplicación -->
+    <color name="button_background">#4A90E2</color> <!-- Color de fondo de botones -->
+    <color name="button_background_pressed">#357ABD</color> <!-- Color de fondo de botones cuando son presionados -->
+
+    <!-- Colores de separadores y líneas -->
+    <color name="divider_color">#BDBDBD</color> <!-- Color de divisores -->
+
+    <!-- Colores adicionales -->
+    <color name="error_color">#D32F2F</color> <!-- Rojo para mensajes de error -->
+    <color name="success_color">#388E3C</color> <!-- Verde para mensajes de éxito -->
+    <color name="info_color">#0288D1</color> <!-- Azul para mensajes informativos -->
+    <color name="icon_color">#7E57C2</color>
+    <color name="card_background">#F5F5F5</color>
+    <color name="black">#000000</color>
+    <color name="light_gray">#585858</color>
+
+    <color name="backgroundColor">#F3F6FB</color>
+    <color name="titleColor">#0D47A1</color>
+    <color name="primaryTextColor">#333333</color>
+    <color name="buttonColor">#1976D2</color>
+    <color name="feedbackColor">#388E3C</color>
+
+    <color name="colorPrimary">#2E7D32</color>
+    <color name="colorPrimaryDark">#1B5E20</color>
+    <color name="colorAccent">#81C784</color>
+    <color name="background">#F5F5F5</color>
+    <color name="cellBackground">#FFFFFF</color>
+    <color name="cellBackgroundDisabled">#EEEEEE</color>
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#757575</color>
+    <color name="correctAnswer">#A5D6A7</color>
+    <color name="wrongAnswer">#EF9A9A</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color> <!-- Dark Gray -->
+
+    <!-- Containers -->
+   <!-- <color name="container_bg">#E0E0E0</color>  Light Gray for Containers -->
+
+    <!-- Letter Colors -->
+    <color name="letter_bg">#2196F3</color> <!-- Blue for Draggable Letters -->
+    <color name="word_bg">#4CAF50</color> <!-- Green for Completed Word Letters -->
+
+    <!-- Buttons or other Elements -->
+    <color name="button_bg">#FF5722</color> <!-- Deep Orange -->
+
+    <color name="game_background">#F0F4F8</color>
+    <color name="letter_border">#2171D0</color>
+    <color name="container_bg">#FFFFFF</color>
+    <color name="container_border">#E2E8F0</color>
+
+    <color name="primary">#2196F3</color>
+    <color name="accent">#FF4081</color>
+
+
+        <color name="button_default">#3F51B5</color> <!-- Azul predeterminado -->
+        <color name="correct_answer">#4CAF50</color> <!-- Verde para respuesta correcta -->
+        <color name="wrong_answer">#F44336</color> <!-- Rojo para respuesta incorrecta -->
+
+    <color name="tableBackground">#FFFFFF</color>
+    <color name="malletGreen">#4CAF50</color>
+    <color name="malletRed">#F44336</color>
+    <color name="puckBlue">#2196F3</color>
+
+
+
+
+
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Fondo de la barra de progreso -->
+    <item android:id="@android:id/background">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="#D3D3D3"/>  <!-- Color gris claro como fondo -->
+            <corners android:radius="10dp"/>  <!-- Bordes redondeados -->
+        </shape>
+    </item>
+
+    <!-- Barra de progreso -->
+    <item android:id="@android:id/progress">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="#4CAF50"/>  <!-- Color verde para el progreso -->
+            <corners android:radius="10dp"/>  <!-- Bordes redondeados -->
+        </shape>
+    </item>
+
+    <!-- Barra del rango completo -->
+    <item android:id="@android:id/secondaryProgress">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="#FF9800"/>  <!-- Color naranja para el rango de progreso secundario -->
+            <corners android:radius="10dp"/>  <!-- Bordes redondeados -->
+        </shape>
+    </item>
+</layer-list>

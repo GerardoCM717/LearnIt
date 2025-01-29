@@ -1,0 +1,3 @@
+<resources>
+    <dimen name="heart_size">24dp</dimen> <!-- Cambia el tamaño según sea necesario -->
+</resources>

@@ -1,0 +1,5 @@
+<svg xmlns="http://schemas.android.com/apk/res/android" width="80dp" height="80dp" viewBox="0 0 80 80">
+    <rect x="0" y="0" width="80" height="80" fill="#F0F0F0" />
+    <path d="M20 20 L60 20 L60 60 L20 60 Z" fill="#CCCCCC" />
+    <path d="M30 30 L50 30 L50 50 L30 50 Z" fill="#DDDDDD" />
+</svg>

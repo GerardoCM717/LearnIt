@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center">
+
+    <!-- Barra de progreso que indica el tiempo de estudio -->
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:progress="0"
+        android:max="120"
+        style="@android:style/Widget.ProgressBar.Horizontal"/>
+
+    <!-- Texto que muestra el tiempo seleccionado -->
+    <TextView
+        android:id="@+id/timeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0/120 minutos"
+        android:textSize="16sp"
+        android:layout_marginTop="8dp"
+        android:textAlignment="center" />
+
+    <!-- SeekBar para que el usuario seleccione el tiempo -->
+    <SeekBar
+        android:id="@+id/seekBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="120"
+        android:progress="0"
+        android:layout_marginTop="8dp" />
+</LinearLayout>
